@@ -62,3 +62,5 @@ DOMAIN-SUFFIX,stspg-customer.com
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
